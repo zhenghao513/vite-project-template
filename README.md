@@ -1,6 +1,6 @@
 # vite-project-template
 
-Vue 3 + TypeScript + Vite 项目模板
+🚄 Vue 3 + TypeScript + Vite 项目模板
 
 ## 预装
 
@@ -8,7 +8,6 @@ Vue 3 + TypeScript + Vite 项目模板
 - eslint-config-ali
 - unplugin-auto-import
 - unplugin-vue-components
-- @types/node
 
 ## 使用
 
